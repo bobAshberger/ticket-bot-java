@@ -1,0 +1,49 @@
+# Android Studio
+*.iml
+*.hprof
+
+# Gradle
+.gradle/
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration
+local.properties
+.idea/
+*.ipr
+*.iws
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# NDK / CMake
+.externalNativeBuild/
+.cxx/
+
+# Misc
+captures/
+output.json
+
+# Windows-specific
+*.bat
+*.exe
+
+# Unix-specific
+*.sh
+*.run
+
+# Ignore wrapper scripts (optional)
+gradlew
+gradlew.bat
