@@ -47,3 +47,4 @@ output.json
 # Ignore wrapper scripts (optional)
 gradlew
 gradlew.bat
+Main.java
